@@ -11,5 +11,5 @@ ce va trebui introdusă la deschiderea fișierului).
 ###### pwmanager.py <master_password> -remove gmail.com
 ###### pwmanager.py <master_password> -list
 
-###OUTPUT: 
+### OUTPUT: 
 ###### pwmanager.db
